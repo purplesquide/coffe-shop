@@ -48,11 +48,11 @@ const Footer = () => {
               Espresso Escape
             </p>
             <a
-              href="https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ"
+              href="https://portfolio-seven-vert-27.vercel.app/"
               target="_blank"
               className="inline-block bg-[#3d2517] py-2 px-4 mt-5 text-sm rounded-full"
             >
-              Visit our YouTube Channel
+              Check out my portfolio for more
             </a>
           </div>
 
